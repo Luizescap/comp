@@ -1,0 +1,36 @@
+{
+  "title": "eniac",
+  "date": "29-03-2018",
+  "description": {},
+  "license": {
+    "pt": "Licensed under a Creative Commons license <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "pt"
+  ],
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "mainFile": "quebra_cabeca.jclic",
+  "activities": 5,
+  "mediaFiles": 12,
+  "totalSize": 381849,
+  "files": [
+    "abstrato_140_branco_1-resized-quebra_cabeca.jpg",
+    "emoticon-quebra_cabeca.png",
+    "eniaclogo_755x281-quebra_cabeca.jpg",
+    "favicon.ico",
+    "grid1101-right-quebra_cabeca.jpg",
+    "gridpad-right-resized-quebra_cabeca.jpg",
+    "ibm-quebra_cabeca.jpg",
+    "ibm_simon_personal_communicator-resized-quebra_cabeca.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "quebra_cabeca.jclic",
+    "quebra_cabeca.jclic.js"
+  ]
+}
